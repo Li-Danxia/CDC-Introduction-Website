@@ -1,0 +1,149 @@
+.introduction {
+    background-color: #fff !important;
+
+    a,
+    a:hover {
+        text-decoration: underline;
+        color: #2E86C1;
+    }
+
+
+    .navigation {
+        width: 185px;
+        height: 360px;
+        line-height: 22px;
+        border: 1px solid #f0f0f0;
+
+        li {
+            padding: 10px 10px 0;
+        }
+    }
+
+    .introduction-box {
+        width: 70%;
+        margin: 0 auto;
+        color: rgba(0, 0, 0, .85); // border: 1px solid rgba(0, 0, 0, .85);
+        font-size: 18px;
+        line-height: 28px;
+
+        .CDC-canvas {
+            width: 850px;
+            height: 550px;
+            margin: 20px auto;
+            border: 2px solid #f0f0f0;
+            position: relative;
+        }
+
+        .dataset-choice {
+            position: absolute;
+            top: 10px;
+            left: 13px;
+        }
+
+        .k {
+            position: absolute;
+            font-size: 18px;
+            top: 503px;
+            left: 127px;
+        }
+
+        .ratio {
+            position: absolute;
+            top: 503px;
+            left: 395px;
+        }
+
+        .ant-space-item {
+            font-size: 18px;
+        }
+
+        .default-parameters {
+            position: absolute;
+            top: 503px;
+            left: 690px;
+        }
+
+        .parameters-box {
+            position: absolute;
+            top: 485px;
+            left: 13px;
+        }
+
+        .legend1 {
+            position: absolute;
+            top: 458px;
+            left: 160px;
+            width: 85px;
+            height: 24px;
+            line-height: 20px;
+            padding: 0 0 0 5px;
+            border: 1px solid rgba(0, 0, 0, .65);
+            font-size: small;
+        }
+
+        .legend2 {
+            position: absolute;
+            top: 458px; //350px
+            left: 160px;
+            width: 127px;
+            height: 24px;
+            line-height: 18px;
+            padding: 0 0 0 5px;
+            border: 1px solid rgba(0, 0, 0, .65);
+            font-size: small;
+        }
+
+        .legend3 {
+            position: absolute;
+            top: 455px; //350px
+            left: 68px;
+            width: 625px;
+            height: 30px;
+            line-height: 24px;
+            padding: 0 0 0 5px;
+            border: 1px solid rgba(0, 0, 0, .65);
+            font-size: small;
+        }
+
+        .legend-word {
+            margin-left: 19px;
+        }
+
+        .title {
+            font-size: 28px;
+            font-weight: bold;
+            text-align: center;
+            margin: 0 0 8px 0;
+        }
+
+        .cdc {
+            font-weight: bolder;
+            color: #2E86C1
+        }
+
+        .images-box {
+            display: flex;
+            justify-content: space-evenly;
+        }
+
+        h5 {
+            text-align: center;
+        }
+
+        .keyword {
+            font-weight: 500;
+            color: #2E86C1
+        }
+
+        .mathjax {
+            width: 100%;
+            text-align: center;
+            margin-bottom: 10px
+        }
+
+        h3 {
+            // color: #1890ff;
+            margin-top: 25px;
+        }
+    }
+}
