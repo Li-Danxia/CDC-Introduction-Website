@@ -1,0 +1,32 @@
+.header {
+    padding: 0 19%;
+
+    // .header-logo {
+    //     float: left;
+    //     width: 240px;
+    //     height: 64px;
+    //     margin: 0 24px 0 0;
+    //     background: rgba(255, 255, 255, 0.3);
+    //     display: flex;
+    //     align-items: center;
+    //     justify-content: center;
+
+    //     .header-name {
+    //         font-size: 25px;
+    //         color: white;
+    //     }
+    // }
+
+    .ant-menu {
+        font-size: 16px;
+
+        .ant-menu-item-active {
+            background-color: #001529 !important;
+        }
+
+        .ant-menu-item-selected {
+            background-color: #1890ff !important;
+        }
+    }
+
+}
