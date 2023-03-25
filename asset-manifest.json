@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.7e6d0b59.css",
-    "main.js": "./static/js/main.a6086592.js",
-    "static/media/Zhipeng Gui.png": "./static/media/Zhipeng Gui.384c5b39ea5ad59655fd.png",
+    "main.css": "./static/css/main.e8b07dfa.css",
+    "main.js": "./static/js/main.4b69869d.js",
+    "static/media/Zhipeng Gui.png": "./static/media/Zhipeng Gui.535819850cdffc00405f.png",
     "static/media/animation.gif": "./static/media/animation.1fcdd31b6398b440da53.gif",
     "static/media/high dimension.png": "./static/media/high dimension.f8b670bccda6461635e4.png",
     "static/media/illustration.png": "./static/media/illustration.b9bdd0f7688b5d4a0229.png",
-    "static/media/Dehua Peng.png": "./static/media/Dehua Peng.3c1c78e0139810c8ef05.png",
+    "static/media/Dehua Peng.png": "./static/media/Dehua Peng.012f055dd9520042c366.png",
     "static/media/Yuncheng Ma.jpg": "./static/media/Yuncheng Ma.607884221d9deaf3eeb4.jpg",
     "static/media/Danxia Li.png": "./static/media/Danxia Li.8ff581808f08abf344f9.png",
-    "static/media/Zicheng Huang.jpg": "./static/media/Zicheng Huang.48942ca90ce44244548c.jpg",
+    "static/media/Zicheng Huang.jpg": "./static/media/Zicheng Huang.999ec511c3034c9441c2.jpg",
     "static/media/heterogeneous density.png": "./static/media/heterogeneous density.74f9d6cab578a08dc345.png",
     "static/media/weak connectivity.png": "./static/media/weak connectivity.c5de2ba25f7566cf125e.png",
     "static/media/Yang Liu.jpg": "./static/media/Yang Liu.00aa452bb32b66ee79b9.jpg",
     "index.html": "./index.html",
-    "main.7e6d0b59.css.map": "./static/css/main.7e6d0b59.css.map",
-    "main.a6086592.js.map": "./static/js/main.a6086592.js.map"
+    "main.e8b07dfa.css.map": "./static/css/main.e8b07dfa.css.map",
+    "main.4b69869d.js.map": "./static/js/main.4b69869d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e6d0b59.css",
-    "static/js/main.a6086592.js"
+    "static/css/main.e8b07dfa.css",
+    "static/js/main.4b69869d.js"
   ]
 }
